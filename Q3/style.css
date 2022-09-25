@@ -1,0 +1,14 @@
+#top-wrapper {
+    margin: auto;
+    display: flex;
+    align-items: center;
+    padding-left: 6em;
+    color: rgb(255, 0, 0);
+    font-weight: 600;
+  }
+  
+  #btn-div {
+    display: flex;
+    align-items: center;
+    gap: 10em;
+  }
